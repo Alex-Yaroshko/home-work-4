@@ -1,4 +1,4 @@
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/05190c0e58bb3eea54fe36f5ca446310d3ff8f943b656ca1.png)
+
 
 ## Home-work-4
 
