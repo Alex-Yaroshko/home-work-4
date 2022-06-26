@@ -1,3 +1,11 @@
 p {
     background-color: blue;
 }
+h1 {
+    border: 2px solid black;
+}
+footer {
+    background-color: blueviolet;
+    font-weight: 800;
+    margin: 20%;
+}
